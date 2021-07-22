@@ -10,6 +10,7 @@ nterms = int(input("How many terms? "))
 n1 = 0
 n2 = 1
 count = 0
+c=3 # test
 
 # check if the number of terms is valid
 if nterms <= 0:
